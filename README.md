@@ -17,4 +17,4 @@ I have hands-on experience in establishing and running my own company, where I s
 Looking ahead, I see myself in the role of a Tech Lead. With my strong leadership capabilities, entrepreneurial spirit, and enthusiasm for adopting new technologies, I am motivated to guide and inspire teams toward success in the tech world.
 
 ### Contact
-Feel free to reach me via mail@
+Feel free to reach me via mail@yan.software
