@@ -11,7 +11,7 @@ Full-stack JavaScript developer, deeply passionate about programming, and always
 - 🔍 Problem Solving: A passionate problem solver, always excited to tackle complex coding issues.
 
 ### Expierence ✔️
-I have hands-on experience in establishing and running my own company, where I successfully created and sold software products, including web and mobile applications tailored to the needs of businesses.
+I have hands-on experience in establishing and running my own company, where I served as a developer and representative. I successfully created and sold software products, including web and mobile applications tailored to the needs of businesses.
 
 ### Future goals 🚀
 Looking ahead, I see myself in the role of a Tech Lead. With my strong leadership capabilities, entrepreneurial spirit, and enthusiasm for adopting new technologies, I am motivated to guide and inspire teams toward success.
