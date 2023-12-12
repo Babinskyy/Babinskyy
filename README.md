@@ -1,7 +1,7 @@
 # Hello 👋, I'm Jan
 
 ### About me 😎
-Full-stack JavaScript developer, deeply passionate about programming, and always eager to learn new technologies. When I'm not immersed in code, you'll find me enjoying my love for chess or absorbed in the fascinating world of books.
+Full stack JavaScript developer, deeply passionate about programming, and always eager to learn new technologies. When I'm not immersed in code, you'll find me enjoying my love for chess or absorbed in the fascinating world of books.
 
 ### Skills and expertise ✌️
 - 💻 Frontend Development: Proficient in React and TypeScript, with recent exploration of Vue.
