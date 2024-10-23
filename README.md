@@ -14,4 +14,4 @@ Full stack JavaScript developer, deeply passionate about programming, and always
 I have hands-on experience in establishing and running my own company, where I served as a developer and representative. I successfully created and sold software products, including web and mobile applications tailored to the needs of businesses.
 
 ### Contact 🤙
-Feel free to reach me via mail@yan.software
+Feel free to reach me via jan@babinsky.pl
