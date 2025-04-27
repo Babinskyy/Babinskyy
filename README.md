@@ -4,7 +4,7 @@
 Full stack JavaScript developer, deeply passionate about programming, and always eager to learn new technologies. When I'm not immersed in code, you'll find me enjoying my love for chess or absorbed in the fascinating world of books.
 
 ### Skills and expertise ✌️
-- 💻 Frontend Development: Proficient in React and TypeScript, with recent exploration of Vue.
+- 💻 Frontend Development: Proficient in Next.js, React and TypeScript, with recent exploration of Vue.
 - ⚙️ Backend Development: Skilled in crafting REST APIs using Node.js and Express.
 - 🛠️ State Management: Hands-on experience with Redux Toolkit and Pinia.
 - 🗄️ Database Management: Skilled in SQL and NoSQL databases, including MongoDB and PostgreSQL.
